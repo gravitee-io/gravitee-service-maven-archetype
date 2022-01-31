@@ -34,7 +34,7 @@
     </parent>
 
     <properties>
-        <archetype-packaging.version>2.3</archetype-packaging.version>
+        <archetype-packaging.version>2.4</archetype-packaging.version>
         <maven-archetype-plugin.version>2.3</maven-archetype-plugin.version>
     </properties>
 
